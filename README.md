@@ -4,7 +4,7 @@
 The purpose of this analysis was to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
 ## Results
-Data Processing
+###Data Processing
 
 -The target for the model is the success of the applicants displayed in the "IS_SUCCESSFUL" column.
 
@@ -19,7 +19,7 @@ Data Processing
 
 -The variables EIN and Name were neither targets nor features, and were removed from the input data.
 
-Compiling, Training, and Evaluating the Model
+###Compiling, Training, and Evaluating the Model
 
 -In my first attempt to optimize the model, I added more neurons to the 2 hidden layers, the first containing 100 nuerons, and the second containing 40 neurons. The activation function used for all layers was "relu".
 
