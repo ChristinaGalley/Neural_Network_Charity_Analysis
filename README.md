@@ -1,7 +1,7 @@
 # Neural_Network_Charity_Analysis
 
 ## Overview
-The purpose of this analysis was to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
+The purpose of this analysis was to create a binary classifier that is capable of predicting whether organization applicants will be successful if funded by Alphabet Soup, a non-profit philanthropic foundation.
 
 ## Results
 Data Processing
